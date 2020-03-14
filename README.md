@@ -1,1 +1,1 @@
-# Image Compressioon LZ77
+# Image Compression LZ77
